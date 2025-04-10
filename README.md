@@ -1,4 +1,4 @@
-#Reconstruction of Beam Parameters and Betatron Radiation Spectra Measured with a Compton spectrometer
+# Reconstruction of Beam Parameters and Betatron Radiation Spectra Measured with a Compton spectrometer
 
 This project investigates the reconstruction of beam parameters from betatron radiation spectra in plasma wakefield acceleration (PWFA) 
 experiments using a combination of simulated data and experimental modeling. Central to the approach is a custom Python-based tracking code
